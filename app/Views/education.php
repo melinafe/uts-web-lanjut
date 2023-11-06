@@ -1,8 +1,9 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Selamat Datang di Website Melina</title>
+    <title>Education</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -194,8 +195,6 @@
     </style>
 </head>
 <body>
-
-<!-- HEADER: MENU + HEROE SECTION -->
 <header>
 
     <div class="menu">
@@ -214,29 +213,16 @@
            
         </ul>
     </div>
-
     <div class="heroe">
 
-        <h1>Selamat Datang di Website Melina</h1>
+        <h1>My Education</h1>
+<table border="1" align="center" width="100%">
+    <tr>
+        <th>Tingkat</th>
+        <th>Nama sekolah</th>
+    </tr>
 
-        <h2>ini digunakan untuk menunjukkan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol sistem kontrol versi GIT</h2>
-
-   
-</header>
-
-
-<!-- CONTENT -->
-
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang.</p>
-
-</section>
-
-
-<!-- -->
-
-</body>
-</html>
+    <tr>
+    </tr>
+    
+</table>

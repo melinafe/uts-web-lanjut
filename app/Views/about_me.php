@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Selamat Datang di Website Melina</title>
+    <title>About me</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -194,8 +194,6 @@
     </style>
 </head>
 <body>
-
-<!-- HEADER: MENU + HEROE SECTION -->
 <header>
 
     <div class="menu">
@@ -208,35 +206,17 @@
                 <button onclick="toggleMenu();">&#9776;</button>
             </li>
             <li class="menu-item hidden"><a href="#">Home</a></li>
-            <li class="menu-item hidden"><a href="about_me" target="_blank">About Me</a>
+            <li class="menu-item hidden"><a href="about_me.php" target="_blank">About Me</a>
             </li>
             <li class="menu-item hidden"><a href="education.php" target="_blank">Education</a></li>
            
         </ul>
     </div>
-
     <div class="heroe">
 
-        <h1>Selamat Datang di Website Melina</h1>
+<h1>About me</h1>
 
-        <h2>ini digunakan untuk menunjukkan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol sistem kontrol versi GIT</h2>
+<h2>Halo, perkenalkan nama saya Jajang, saya berasal dari sebuah desa di Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h2>
 
-   
+
 </header>
-
-
-<!-- CONTENT -->
-
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang.</p>
-
-</section>
-
-
-<!-- -->
-
-</body>
-</html>
